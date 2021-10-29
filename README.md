@@ -1,3 +1,5 @@
+![](https://github.com/alexiskedo/alexiskedo/blob/main/github_cover_image.png)
+
 ### Hi There 👋
 I'm Alexis. I'm a Data Scientist with an education/public policy background. I'm interested in using AI, Machine Learning, and Data Science to make smarter social policy, particularly when it comes to improving outcomes for K-12 students nationwide and furthering educational equity. 
 
