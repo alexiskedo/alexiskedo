@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+My name is Alexis and I am a Data Science with an education/public policy background. I'm currently working on 
+<!-- 
 **alexiskedo/alexiskedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
